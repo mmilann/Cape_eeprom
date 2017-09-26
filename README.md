@@ -33,4 +33,4 @@ Print and dump parsed data from binary file to screen:<br>
 
 Compilation:
 -----------
-Just type "make". You can cross-compile simply setting CXX environmental variable. Current version has no dependency.
+Just type "make".
